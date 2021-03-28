@@ -5,7 +5,14 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Home
-    url: https://home.zhanghongxia.top:8443/Main_Login.asp
+    url: $ROUTER_URL
+  - name: Aria2
+    url: $ARIA2_URL
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 400
+      - 404
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
