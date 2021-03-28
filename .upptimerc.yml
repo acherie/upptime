@@ -8,6 +8,7 @@ sites:
     url: $ROUTER_URL
   - name: Aria2
     url: $ARIA2_URL
+    __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
       - 201
