@@ -22,17 +22,17 @@
     "url": "$ARIA2_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "aria2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1296,
-    "timeDay": 998,
-    "timeWeek": 1296,
-    "timeMonth": 1296,
-    "timeYear": 1296,
+    "time": 1164,
+    "timeDay": 949,
+    "timeWeek": 1164,
+    "timeMonth": 1164,
+    "timeYear": 1164,
     "dailyMinutesDown": {}
   }
 ]
