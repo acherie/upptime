@@ -13,7 +13,7 @@
     "time": 1566,
     "timeDay": 1370,
     "timeWeek": 1441,
-    "timeMonth": 1555,
+    "timeMonth": 1543,
     "timeYear": 1566,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "$ARIA2_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "aria2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
