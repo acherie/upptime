@@ -4,17 +4,17 @@
     "url": "$ROUTER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1941,
-    "timeDay": 1627,
+    "timeDay": 1378,
     "timeWeek": 1509,
     "timeMonth": 1491,
-    "timeYear": 1958,
+    "timeYear": 1959,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1106,
+    "timeYear": 1085,
     "dailyMinutesDown": {}
   }
 ]
