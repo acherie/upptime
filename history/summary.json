@@ -4,7 +4,7 @@
     "url": "$ROUTER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 4792,
     "timeWeek": 2141,
     "timeMonth": 2009,
-    "timeYear": 1742,
+    "timeYear": 1743,
     "dailyMinutesDown": {}
   },
   {
